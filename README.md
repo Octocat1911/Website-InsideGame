@@ -3,7 +3,9 @@ Game website with JEE - ENSSAT Project
 
 Pour lancer le serveur, faire un git clone, et faire la commande suivante :
 
-sudo docker-compose up
+"sudo docker-compose up"
+
+(Pour arrêter les conteneurs, faire un Ctrl-C, puis la commande "sudo docker-compose down"
 
 docker et docker-compose sont requis.
 
